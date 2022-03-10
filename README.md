@@ -2,7 +2,7 @@
 
 
 ```js
-const tikz = {
+const Tikz = {
   name: 'Tikz',
   age: new Date().getFullYear() - 2000,
   usage: 'french développer',
