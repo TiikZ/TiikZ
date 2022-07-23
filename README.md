@@ -11,3 +11,13 @@ const Tikz = {
   ]
 }
 ```
+
+```js
+const Garett = {
+  name: 'Garett',
+  usage: 'DiscordBot',
+  editors: [
+    'https://discord.gg/VyB83xppfN'
+  ]
+}
+```
