@@ -1,6 +1,3 @@
-<h1>Hello here !</h1>
-
-
 ```js
 const Tikz = {
   name: 'Tikz',
@@ -14,10 +11,10 @@ const Tikz = {
 
 ```js
 const Garett = {
-  name: 'Garett',
-  usage: 'DiscordBot',
+  name: 'µµµ',
+  usage: '***',
   editors: [
-    'https://discord.gg/VyB83xppfN'
+    'https://discord.gg/****'
   ]
 }
 ```
